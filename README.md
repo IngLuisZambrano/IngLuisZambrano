@@ -3,7 +3,7 @@
 ![Luis Zambrano] 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://github.com/IngLuisZambrano/IngLuisZambrano/blob/main/Developer%20ll%20JavaScript%20ll%20HTML%20ll%20CSS%20ll%20Angular%20ll%20Vue%20ll%20React%20Python.png" alt="Luis Zambrano" width="100%" height="500px">
+<img src="https://github.com/IngLuisZambrano/IngLuisZambrano/blob/main/Developer%20ll%20JavaScript%20ll%20HTML%20ll%20CSS%20ll%20Angular%20ll%20Vue%20ll%20React%20Python.png" alt="Luis Zambrano" width="100%" height="400px">
 </p>
 </div>
 
