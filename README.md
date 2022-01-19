@@ -7,8 +7,8 @@
 
 ### console.log("Hello World")   print("Hello World")
 
-<p><em>Tripulante de <a href="https://www.misiontic2022.gov.co/portal/"> MisionTic 2022 </a></br>
-Estudiante en <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx"> SENA (Desarrollo de Aplicaciones Móviles) </a>
+<p><em>Tripulante de <a href="https://www.misiontic2022.gov.co/portal/" target="_blanck"> MisionTic 2022 </a></br>
+Estudiante en <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx" target="_blanck"> SENA (Desarrollo de Aplicaciones Móviles) </a>
 </em></p><br>
 
 [![ Twitter: Luis Zambrano](https://img.shields.io/twitter/follow/LuisMan31549729?style=social)](https://twitter.com/LuisMan31549729)
