@@ -1,6 +1,6 @@
 ## Hola soy Luis Zambrano 👋
 
-![Luis Zambrano] (https://github.com/IngLuisZambrano/IngLuisZambrano/blob/main/Developer%20ll%20JavaScript%20ll%20HTML%20ll%20CSS%20ll%20Angular%20ll%20Vue%20ll%20React%20Python.png){width=100px height=100px}
+![Luis Zambrano] (https://github.com/IngLuisZambrano/IngLuisZambrano/blob/main/Developer%20ll%20JavaScript%20ll%20HTML%20ll%20CSS%20ll%20Angular%20ll%20Vue%20ll%20React%20Python.png){width="100px" height="100px"}
 
 ### console.log("Hello World")   print("Hello World")
 
