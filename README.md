@@ -12,7 +12,7 @@ Estudiante en <a href="https://www.sena.edu.co/es-co/Paginas/default.aspx" targe
 </em></p><br>
 
 [![ Twitter: Luis Zambrano](https://img.shields.io/twitter/follow/LuisMan31549729?style=social)](https://twitter.com/LuisMan31549729)
-[![ Linkedin: Luis Zambrano](https://img.shields.io/badge/-LuisZambrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-manuel-zambrano-caballero-77b7a6202)](https://www.linkedin.com/en/luis-manuel-zambrano-caballero-77b7a6202)
+[![ Linkedin: Luis Zambrano](https://img.shields.io/badge/-LuisZambrano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-manuel-zambrano-caballero-77b7a6202)](https://www.linkedin.com/in/luis-manuel-zambrano-caballero-77b7a6202)
 [![ GitHub Luis Zambrano](https://img.shields.io/github/followers/IngLuisZambrano?label=follow&style=social)](https://github.com/IngLuisZambrano)
 
 ```javascript
